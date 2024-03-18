@@ -1,0 +1,6 @@
+tensorflow==2.13.0
+tinkoff-investments
+pandas
+numpy
+flask
+redis
