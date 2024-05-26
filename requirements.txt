@@ -4,3 +4,5 @@ pandas
 numpy
 flask
 redis
+schedule
+python-dotenv
