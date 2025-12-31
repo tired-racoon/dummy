@@ -1,6 +1,6 @@
-from tinkoff.invest import MoneyValue
-from tinkoff.invest import OrderDirection, OrderType
-from tinkoff.invest import Client, RequestError, PortfolioResponse, PositionsResponse, PortfolioPosition
+from t_tech.invest import MoneyValue
+from t_tech.invest import OrderDirection, OrderType
+from t_tech.invest import Client, RequestError, PortfolioResponse, PositionsResponse, PortfolioPosition
 import datetime
 import pytz
 

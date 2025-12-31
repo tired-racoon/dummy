@@ -1,5 +1,5 @@
 tensorflow==2.13.0
-tinkoff-investments
+t-tech-investments
 pandas
 numpy
 flask

@@ -1,5 +1,5 @@
 # import all libs
-from tinkoff.invest import CandleInterval
+from t_tech.invest import CandleInterval
 import redis
 import threading
 from flask import Flask
